@@ -5,7 +5,7 @@
   "license": "MIT",
   "typings": "dist/index.d.ts",
   "main": "dist/index.js",
-  "homepage": "https://medifree.netlify.app/",
+  "homepage": "https://carlossilvestri.github.io/sb-components/?path=/story/example-introduction--page",
   "repository": {
     "url": "https://github.com/carlossilvestri/sb-components",
     "type": "git"
